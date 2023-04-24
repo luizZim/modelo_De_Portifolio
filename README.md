@@ -8,8 +8,8 @@
 
 <br/>
 
-<p align="justified"> Nesta página do Portfolio pode ser inserida as informações sobre o candidato como por exemplo realizar uma breve introdução sobre quem é, suas especialidades,
-onde ja trabralhou, seu foco de atuação e demais informações que achar interessante demonstrar.</p>
+<p align="justified"> Nesta página do Portfolio pode ser inserida as informações sobre o candidato como, por exemplo, realizar uma breve introdução sobre quem é, suas especialidades,
+onde já trabalhou, seu foco de atuação e demais informações que achar interessante demonstrar.</p>
 
 <p align="justified"> Logo em seguida poderá colocar suas redes para contato.</p>
 
@@ -22,4 +22,4 @@ onde ja trabralhou, seu foco de atuação e demais informações que achar inter
 
 <br/>
 
-<p align="justified"> A pagina sobre mim como o próprio nome indica será onde voce poderá contar um pouco sobre você e suas experiências.</p>
+<p align="justified"> A pagina sobre mim como o próprio nome indica será onde você poderá contar um pouco sobre você e suas experiências.</p>
